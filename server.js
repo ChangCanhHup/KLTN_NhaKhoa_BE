@@ -14,7 +14,7 @@ let app = express();
 //     credentials: true,
 //     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
 //   })
-// );
+// );1
 
 
 // Add headers before the routes are defined
